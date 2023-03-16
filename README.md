@@ -12,3 +12,4 @@ I'm an 18 year old full-time student from British Columbia, Canada.
 - MongoDB
 ## Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/334191170060288010)](https://discord.com/users/334191170060288010)
+[![Code Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SnowyShiro&show_icons=true&langs_count=5&bg_color=1A1C1F&text_color=CCC&title_color=804CA0&hide_border=true)]()
