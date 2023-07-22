@@ -1,4 +1,4 @@
-## Wsp, I'm Marshall (aka SnowyShiro)
+## Wsp, I'm Marshall (aka SnowyShiro)<p align="left"><img src="https://komarev.com/ghpvc/?username=snowyshiro&label=Profile%20views&color=0e75b6&style=flat" alt="snowyshiro"/></p>
 I'm an 18 year old full-time student from British Columbia, Canada.
 ## I'm currently working on
 - Lua/Luau decompiler
