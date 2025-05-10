@@ -1,14 +1,11 @@
-## Wsp, I'm Marshall (aka SnowyShiro)<p align="left"><img src="https://komarev.com/ghpvc/?username=snowyshiro&label=Profile%20views&color=0e75b6&style=flat" alt="snowyshiro"/></p>
-I'm an 18 year old full-time student from British Columbia, Canada.
-## I'm currently working on
-- Lua/Luau decompiler
-- Nebxplorer
+## Hey, I'm Marshall (aka SnowyShiro)<p align="left"><img src="https://komarev.com/ghpvc/?username=snowyshiro&label=Profile%20views&color=0e75b6&style=flat" alt="snowyshiro"/></p>
+I'm a 20-year-old Canadian from Victoria, British Columbia.
 ## Languages/Tools I know
 - Lua/Luau
 - Javascript/NodeJS
 - Python
-- Html/CSS
-- C++
+- HTML/CSS
+- C++/C#/C
 - MongoDB
 ## Contact
 <table width='100%'style='border:0px solid #0D1117'>
