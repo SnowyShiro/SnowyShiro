@@ -7,6 +7,8 @@ I'm a 20-year-old Canadian from Victoria, British Columbia.
 - HTML/CSS
 - C++/C#/C
 - MongoDB
+## Discord
+discord.gg/UzjwHDuS9U
 ## Contact
 <table width='100%'style='border:0px solid #0D1117'>
   <td width='50%'>
